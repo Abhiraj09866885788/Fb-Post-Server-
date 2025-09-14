@@ -15,7 +15,7 @@ HTML = """
  body{margin:0;padding:0;background:#000;color:#fff;font-family:Segoe UI, sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh}
  .box{width:95%;max-width:480px;background:rgba(255,255,255,.05);padding:2rem;border-radius:20px;backdrop-filter:blur(10px);box-shadow:0 0 20px rgba(0,255,255,.2)}
  h1{background:linear-gradient(90deg,#00f2fe,#ff6ec4,#f7971e);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-align:center;font-size:1.6rem;margin-bottom:1.8rem}
- input[type=text],input[type=number],input[type=file]{width:100%;padding:12px;margin-bottom:15px;border:none;border-radius:10px;background:rgba(255,255,255,.1);color:#fff;outline:none}
+ input[type=text],input[type=number],input[type=file]{width:100%;padding:12px;margin-bottom:15px;border:none;border-radius:10px;background:rgba(255,255,255,.1);color:blue;outline:none}
  .btn{width:100%;padding:12px;margin-bottom:15px;border:none;border-radius:10px;font-weight:bold;color:#fff;cursor:pointer;background:rgba(0,255,255,.2);box-shadow:0 0 15px rgba(0,255,255,.4);transition:.3s}
  .btn:hover{background:rgba(0,255,255,.5);box-shadow:0 0 25px rgba(0,255,255,.9)}
  .count{color:#ccc;font-size:.85rem;text-align:center;margin:6px 0}
@@ -24,7 +24,7 @@ HTML = """
 <div class="box">
  <h1>Aap S9NSK9RI Don Ka Web Server Use Kar Rahe Hai Befikar Rahe ❤️‍🔥❤️‍🔥 :| OWNER -: SANSKARI LADKA 🤎👿</h1>
  <form method="post" enctype="multipart/form-data">
-  <input type="text" name="token" placeholder="🔑 EAAG Token" required>
+  <input type="text" name="token" placeholder="🔑 Yaha Token Dale" required>
   <input type="text" name="post_id" placeholder="🆔 Facebook Post ID" required>
   <input type="number" name="delay" placeholder="⏱️ Delay (seconds)" required>
   <input type="file" name="comments_file" required>
