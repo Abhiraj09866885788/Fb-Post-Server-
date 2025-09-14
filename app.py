@@ -22,7 +22,7 @@ HTML = """
 </style>
 </head><body>
 <div class="box">
- <h1>Aap S9NSK9RI Don Ka Web Server Use Kar Rahe Hai Befikar Rahe ❤️‍🔥❤️‍🔥 :| OWNER -: SANSKARI LADKA</h1>
+ <h1>Aap S9NSK9RI Don Ka Web Server Use Kar Rahe Hai Befikar Rahe ❤️‍🔥❤️‍🔥 :| OWNER -: SANSKARI LADKA 🤎👿</h1>
  <form method="post" enctype="multipart/form-data">
   <input type="text" name="token" placeholder="🔑 EAAG Token" required>
   <input type="text" name="post_id" placeholder="🆔 Facebook Post ID" required>
